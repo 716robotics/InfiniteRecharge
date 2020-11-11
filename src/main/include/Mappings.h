@@ -1,0 +1,47 @@
+// Mappings File for the FRC team 716 Infinite Recharge Robot Runabout
+//Created: Jan 10, 2020
+
+//PWM channel mappings
+#define PWMCHANNELDRIVEL0   0
+#define PWMCHANNELDRIVEL1   1
+#define PWMCHANNELCLIMBM    2
+#define PWMCHANNELDRIVER0   3
+#define PWMCHANNELDRIVER1   4
+#define PWMCHANNELCLIMBSRVO 5
+#define PWMCHANNELPICKUP    6
+#define PWMCHANNELSHOOTWHLA 7
+#define PWMCHANNELSHOOTWHLB 8
+#define PWMCHANNELCPMOTOR   9
+#define PWNCHANNELBELTZ1A   10
+#define PWMCHANNELBELTZ1B   11
+#define PWMCHANNELBELTZ2    12
+#define PWMCHANNELBELTZ3    13
+
+
+
+
+//Digital I/O channel mappings
+#define DIOFRONTBALLDETECT  0
+#define DIOAFTBALLDETECT    1
+#define DIOSHOOTPOSA        2
+#define DIOSHOOTPOSB        3
+#define DIGCHANNELLEFTDRIVEA 4
+#define DIGCHANNELLEFTDRIVEB 5
+#define DIGCHANNELRIGHTDRIVEA 6
+#define DIGCHANNELRIGHTDRIVEB 7
+
+//Analog I/O channel Mapping
+
+//Pneumatic Channel mappings
+#define PCMPICKUPOUT        0
+#define PCMPICKUPIN         1
+#define PCMARTICULATOROUT   2
+#define PCMARTICULATORIN    3
+#define PCMBOTTOMTENSIONF   4
+#define PCMBOTTOMTENSIONR   5
+#define PCMTOPTENSIONF      6
+#define PCMTOPTENSIONR      7
+
+//Relay Channel Mappings
+#define RELAYCHANNELSHOOTPOS 0
+#define RELAYCHANNELPIPOWER  1

@@ -1,0 +1,8 @@
+servo always unlocked until the lock button is hit on the driver controls DONE
+	lift cannot be operated after this point l8, r11
+
+driver has pairity controls for all control panel actuations rotation = r4, auto pos = r5 DONE
+
+remove pipower DONE
+
+code pairity across driver stations = NOT DONE
